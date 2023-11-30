@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/jash2504/jash2504/blob/main/Tech%20Explorer.png)(https://github.com/jash2504/jash2504/blob/main/Tech%20Explorer.png)]
+[![MasterHead](https://github.com/jash2504/jash2504/blob/main/Tech%20Explorer.png)]
 <h1 align="center">Hi 👋, I'm Jash Asmani</h1>
 <h3 align="center">Designing Solutions, Constructing Success: An Engineer's Journey 🚀🔧💡</h3>
 
