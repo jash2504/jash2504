@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAF1qJ3CsDs/zXUmwC4Coxt6rFOf6ERQAw/view?utm_content=DAF1qJ3CsDs&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+[![MasterHead](https://github.com/jash2504/jash2504/blob/main/Jash%20asmani%20(1).png)]
 <h1 align="center">Hi 👋, I'm Jash Asmani</h1>
 <h3 align="center">Designing Solutions, Constructing Success: An Engineer's Journey 🚀🔧💡</h3>
 
