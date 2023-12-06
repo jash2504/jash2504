@@ -1,7 +1,7 @@
 ![logo](https://github.com/jash2504/jash2504/blob/main/jash%20asmani%20(2).png)
 <h1 align="center">Hi 👋, I'm Jash Asmani</h1>
 <h3 align="center">Designing Solutions, Constructing Success: An Engineer's Journey 🚀🔧💡</h3>
-<img align="right" alt="coding" wigth="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif"> 
+<img align="right" alt="coding" wigth="40" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jash2504&label=Profile%20views&color=0e75b6&style=flat" alt="jash2504" /> </p>
 
 - 🔭 I’m currently working on **collage project**
