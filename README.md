@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,Python,Spring Boot,Node.js**
 
-- 👨‍💻 All of my projects are available at [https://jash2504.github.io/Protfolio/](https://jash2504.github.io/Protfolio/)
+- 👨‍💻 All of my projects are available at [Protfolio](https://jash2504.github.io/Protfolio/)
 
 - 💬 Ask me about **Web Development,Java,Database**
 
