@@ -1,4 +1,4 @@
-![logo](https://github.com/jashasmani/jashasmani/blob/main/jash%20asmani%20(1).png)
+![logo](https://github.com/jashasmani/jashasmani/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Jash Asmani</h1>
 <h3 align="center">Designing Solutions, Constructing Success: An Engineer's Journey 🚀🔧💡</h3>
 <img align="right" alt="coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif"> 
