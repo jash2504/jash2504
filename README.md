@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jash2504&label=Profile%20views&color=0e75b6&style=flat" alt="jash2504" /> </p>
 
-- 🔭 I’m currently working on **collage project**
+- 🔭 I’m currently working on **Flutter Project**
 
-- 🌱 I’m currently learning **Machine Learning,Python,Spring Boot,Node.js**
+- 🌱 I’m currently learning **Machine Learning,React JS,Springboot**
 
 - 👨‍💻 All of my projects are available at [Protfolio](https://protfolio-theta-nine.vercel.app/)
 
