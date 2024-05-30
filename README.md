@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,Python,Spring Boot,Node.js**
 
-- 👨‍💻 All of my projects are available at [Protfolio]([https://jashasmani.github.io/Protfolio/](https://protfolio-theta-nine.vercel.app/))
+- 👨‍💻 All of my projects are available at [Protfolio]([https://protfolio-theta-nine.vercel.app/])
 
 - 💬 Ask me about **Web Development,Java,Database**
 
